@@ -1,0 +1,3 @@
+include wishdex/config/deployment.ini_tmpl
+recursive-include wishdex/public *
+recursive-include wishdex/templates *
